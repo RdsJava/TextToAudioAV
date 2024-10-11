@@ -9,7 +9,7 @@ import java.io.*;
 public class SimpleWindow extends JFrame {
     public SimpleWindow() {
         super();
-        setTitle("Языки");
+        setTitle("Avtor");
 
         PathToAudio pathToAudio = new PathToAudio();
         TextToAudioOporiHladovit textToAudioOporiHladovit = new TextToAudioOporiHladovit();
